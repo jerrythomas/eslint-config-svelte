@@ -1,6 +1,6 @@
 {
 	"name": "@jerrythomas/eslint-config-svelte",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"main": "index.js",
 	"license": "MIT",
 	"repository": "git@github.com:jerrythomas/eslint-config-svelte.git",
