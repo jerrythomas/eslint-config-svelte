@@ -26,6 +26,6 @@
 	},
 	"devDependencies": {
 		"@jerrythomas/prettier-config": "^1.0.0",
-		"svelte": "^3.59.1"
+		"svelte": "^5.55.7"
 	}
 }
